@@ -1,0 +1,6 @@
+opencv-python-headless
+streamlit
+numpy
+pillow
+google-generativeai
+reportlab
